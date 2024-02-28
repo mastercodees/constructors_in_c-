@@ -1,0 +1,6 @@
+C:\Users\vladmir\RiderProjects\constructors_csharp\constructors_csharp\bin\Debug\constructors_csharp.exe
+C:\Users\vladmir\RiderProjects\constructors_csharp\constructors_csharp\bin\Debug\constructors_csharp.pdb
+C:\Users\vladmir\RiderProjects\constructors_csharp\constructors_csharp\obj\Debug\constructors_csharp.csproj.AssemblyReference.cache
+C:\Users\vladmir\RiderProjects\constructors_csharp\constructors_csharp\obj\Debug\constructors_csharp.csproj.CoreCompileInputs.cache
+C:\Users\vladmir\RiderProjects\constructors_csharp\constructors_csharp\obj\Debug\constructors_csharp.exe
+C:\Users\vladmir\RiderProjects\constructors_csharp\constructors_csharp\obj\Debug\constructors_csharp.pdb
